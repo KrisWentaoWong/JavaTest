@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**ArrayList泛型测试
+ * Arrays.asList方法返回的是Arrays类的静态内部类
  * Created by kriswong on 2019/4/24.
  */
 public class ArrayListTest {
